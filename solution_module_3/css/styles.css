@@ -2,7 +2,9 @@
 	box-sizing: border-box;
 	font-family: Calibri ;
 }
+nav div.container{
 
+}
 nav {
 	background-color: #94948e;
 	color: black;
@@ -40,4 +42,6 @@ section{
 	}
 	
 }
+
+
 
