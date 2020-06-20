@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+	font-family: Calibri ;
+}
+
+nav {
+	background-color: #94948e;
+	color: black;
+}
+nav .container{
+	margin-left: 10px;
+}
+
+
+#heading{
+	margin-bottom: 1.5rem;
+}
+#collapsibleNavbar{
+	background-color: #c7c7c1;
+	color: black;
+	font-size: 1.2em;
+}
+hr{
+	margin:0;
+}
+
+section{
+	background-color:  #94948e;
+	margin: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+
+}
+
+@media (min-width: 576px) {
+	.navbar-nav{
+		display: none;
+	}
+	
+}
+
